@@ -5,7 +5,7 @@ body {
     .box {
         background-color: lightpink;
         height: 200px;
-        width: 150px;
+        width: 200px;
         border-radius: 10px;
         position: relative;
         top: 80px;
